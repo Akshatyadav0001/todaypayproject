@@ -18,16 +18,14 @@ Open VSCode and open a terminal (Ctrl + `).
 
 Create a new Vite project:
 
-sh
-Copy code
 npm create vite@latest my-project --template react
 cd my-project
+
 Install dependencies:
 
-sh
-Copy code
 npm install
 3. Create Your React Components
+
 Edit the src folder to add your components and pages. Here is a basic structure:
 
 src
@@ -43,8 +41,7 @@ index.css
 4. Run Your Application
 Start the development server:
 
-sh
-Copy code
+
 npm run dev
 Open your browser and navigate to http://localhost:5173 (default port for Vite).
 
